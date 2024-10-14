@@ -14,3 +14,10 @@
  - `input`: исходные тексты
  - `output` выходная таблица
 
+### Стек
+ - python
+ - pandas
+ - stanza
+ - razdel
+ - simalign
+ - pythondocx
